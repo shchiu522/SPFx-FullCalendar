@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fullcalendar-taskscalendar-client-side-solution",
+    "id": "f30d17ed-9949-4722-a3b4-032b0b6f2891",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/fullcalendar-taskscalendar.sppkg"
+  }
+}

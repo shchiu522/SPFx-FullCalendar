@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "fullcalendar-taskscalendar",
+    "libraryId": "f30d17ed-9949-4722-a3b4-032b0b6f2891",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
